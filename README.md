@@ -24,6 +24,7 @@ titanic 생존자 예측
 
 - Age 별 생존자수
 <p align="center"><img src="./images/Age.png" width="50%" height="50%"></p>
+
 - Age 나이대별 생존자수
 <p align="center"><img src="./images/Age_category.png" width="50%" height="50%"></p>
 
