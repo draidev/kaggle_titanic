@@ -8,7 +8,7 @@ titanic 생존자 예측
 <br><br>
 
 - Pclass별 생존자수 
-<p align="center"><img src="./images/Pclass.png" width="80%" height="80%"></p>
+<p align="center"><img src="./images/Pclass.png" width="60%" height="60%"></p>
 
 - Embarked 별 생존자수
 <p align="center"><img src="./images/Embarked.png" width="80%" height="80%"></p>
